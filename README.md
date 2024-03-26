@@ -1,0 +1,1 @@
+The project is aimed at increasing the safety of people in the city. One of the application options is the implementation of the project into a Smart City system. By connecting a neural network to street surveillance cameras, we will significantly reduce the danger of road obstacles by quickly responding to emergency situations
